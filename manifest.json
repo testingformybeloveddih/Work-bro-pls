@@ -1,0 +1,7 @@
+{
+  "name": "TokenCopier",
+  "description": "يوريك توكن ديسكورد حقك.",
+  "author": "Rio",
+  "version": "1.0.0",
+  "main": "Shi.plugin.js"
+}
